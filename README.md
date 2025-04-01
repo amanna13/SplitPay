@@ -1,2 +1,2 @@
 # SplitPay
-Splits payments among multiple addresses automatically.
+Splits payments among multiple addresses automatically using Smart Contracts.
